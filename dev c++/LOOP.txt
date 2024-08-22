@@ -1,0 +1,18 @@
+LOOP
+It will repeat something till the condition will satisfied
+
+2) types loop
+
+1) entry control
+
+
+while,for
+
+2) exit control
+ do while loop
+
+
+loop
+1) start -> initialize
+2) end -> condition
+3) increment.
